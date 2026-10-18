@@ -1,2 +1,2 @@
-/Data
 /Data/*
+!/Data/prepare_data.py
